@@ -1,2 +1,19 @@
 # LLM-From-Scratch
-Implementing LLM from Scratch with PyTorch to understand the depth and fundamentals of LLM. 
+
+This repository contains my personal journey of building a Large Language Model (LLM) from scratch using Python and PyTorch.
+
+
+###What this project includes?
+
+Custom tokenizer and data preparation
+
+Implementation of self-attention, multi-head attention, and feed-forward networks
+
+A full Transformer architecture built from the ground up
+
+Experiments and notes as I learn each concept
+
+###Goal
+
+To deeply understand how modern LLMs work internally by re-building each component manually, improving with each iteration, and documenting the entire learning process.
+
