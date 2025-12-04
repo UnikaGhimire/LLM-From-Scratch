@@ -3,7 +3,7 @@
 This repository contains my personal journey of building a Large Language Model (LLM) from scratch using Python and PyTorch.
 
 
-###What this project includes?
+## What this project includes : 
 
 Custom tokenizer and data preparation
 
@@ -11,9 +11,8 @@ Implementation of self-attention, multi-head attention, and feed-forward network
 
 A full Transformer architecture built from the ground up
 
-Experiments and notes as I learn each concept
+Experiments, notes, and progressive improvements as I learn each concept
 
-###Goal
+## Goal
 
-To deeply understand how modern LLMs work internally by re-building each component manually, improving with each iteration, and documenting the entire learning process.
-
+To deeply understand how modern LLMs work internally by rebuilding each component manually, improving with each iteration, and documenting the entire learning process.
